@@ -1,5 +1,5 @@
 {
-  "vpnenabled":"false",
+  "vpnenabled":"true",
   "fixcountry":"no",
   "countryenabled":"false",
   "countries": [
