@@ -1,0 +1,142 @@
+{
+  "vpnenabled":"false",
+  "fixcountry":"no",
+  "countryenabled":"false",
+  "countries": [
+  {
+    "name": "United States",
+    "country": "us",
+    "servers": 136
+  },
+  {
+    "name": "France",
+    "country": "fr",
+    "servers": 30
+  },
+  {
+    "name": "United Kingdom",
+    "country": "gb",
+    "servers": 26
+  },
+  {
+    "name": "Canada",
+    "country": "ca",
+    "servers": 28
+  },
+  {
+    "name": "Netherlands",
+    "country": "nl",
+    "servers": 24
+  },
+  {
+    "name": "Sweden",
+    "country": "se",
+    "servers": 12
+  },
+  {
+    "name": "Germany",
+    "country": "de",
+    "servers": 38
+  },
+  {
+    "name": "Hong Kong",
+    "country": "hk",
+    "servers": 8
+  },
+  {
+    "name": "Taiwan",
+    "country": "tw",
+    "servers": 4
+  },
+  {
+    "name": "Denmark",
+    "country": "dk",
+    "servers": 12
+  },
+  {
+    "name": "Hungary",
+    "country": "hu",
+    "servers": 10
+  },
+  {
+    "name": "Monaco",
+    "country": "mc",
+    "servers": 3
+  },
+  {
+    "name": "Ireland",
+    "country": "ie",
+    "servers": 8
+  },
+  {
+    "name": "Israel",
+    "country": "il",
+    "servers": 4
+  },
+  {
+    "name": "United Arab Emirates",
+    "country": "ae",
+    "servers": 4
+  },
+  {
+    "name": "Italy",
+    "country": "it",
+    "servers": 10
+  },
+  {
+    "name": "Mexico",
+    "country": "mx",
+    "servers": 2
+  },
+  {
+    "name": "Spain",
+    "country": "es",
+    "servers": 12
+  },
+  {
+    "name": "Australia",
+    "country": "au",
+    "servers": 12
+  },
+  {
+    "name": "Norway",
+    "country": "no",
+    "servers": 14
+  },
+  {
+    "name": "Belgium",
+    "country": "be",
+    "servers": 8
+  },
+  {
+    "name": "Finland",
+    "country": "fi",
+    "servers": 4
+  },
+  {
+    "name": "Japan",
+    "country": "jp",
+    "servers": 18
+  },
+  {
+    "name": "Singapore",
+    "country": "sg",
+    "servers": 27
+  },
+  {
+    "name": "Switzerland",
+    "country": "ch",
+    "servers": 10
+  },
+  {
+    "name": "Greece",
+    "country": "gr",
+    "servers": 4
+  },
+  {
+    "name": "Turkey",
+    "country": "tr",
+    "servers": 6
+  }
+]
+}
